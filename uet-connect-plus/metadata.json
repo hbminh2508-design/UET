@@ -1,0 +1,7 @@
+{
+  "name": "UET Connect Plus",
+  "description": "A super app for UET students and faculty featuring news feeds, chat, and confessions with a secure verified login system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
